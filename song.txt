@@ -1,2 +1,6 @@
 here I need to write the song
 movie name: RRR
+
+
+song name: dosthi
+director: rajamouli
